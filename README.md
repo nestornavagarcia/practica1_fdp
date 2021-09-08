@@ -1,2 +1,2 @@
 # practica1_fdp
-Nava García Néstor Eliseo FP Grupo
+Nava García Néstor Eliseo FP Grupo 06
